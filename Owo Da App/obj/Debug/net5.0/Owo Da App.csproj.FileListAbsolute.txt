@@ -1,0 +1,16 @@
+C:\Users\Support\Documents\C#\Owo Da App\Owo Da App\bin\Debug\net5.0\Owo Da App.exe
+C:\Users\Support\Documents\C#\Owo Da App\Owo Da App\bin\Debug\net5.0\Owo Da App.deps.json
+C:\Users\Support\Documents\C#\Owo Da App\Owo Da App\bin\Debug\net5.0\Owo Da App.runtimeconfig.json
+C:\Users\Support\Documents\C#\Owo Da App\Owo Da App\bin\Debug\net5.0\Owo Da App.runtimeconfig.dev.json
+C:\Users\Support\Documents\C#\Owo Da App\Owo Da App\bin\Debug\net5.0\Owo Da App.dll
+C:\Users\Support\Documents\C#\Owo Da App\Owo Da App\bin\Debug\net5.0\Owo Da App.pdb
+C:\Users\Support\Documents\C#\Owo Da App\Owo Da App\obj\Debug\net5.0\Owo Da App.csproj.AssemblyReference.cache
+C:\Users\Support\Documents\C#\Owo Da App\Owo Da App\obj\Debug\net5.0\Owo Da App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Support\Documents\C#\Owo Da App\Owo Da App\obj\Debug\net5.0\Owo Da App.AssemblyInfoInputs.cache
+C:\Users\Support\Documents\C#\Owo Da App\Owo Da App\obj\Debug\net5.0\Owo Da App.AssemblyInfo.cs
+C:\Users\Support\Documents\C#\Owo Da App\Owo Da App\obj\Debug\net5.0\Owo Da App.csproj.CoreCompileInputs.cache
+C:\Users\Support\Documents\C#\Owo Da App\Owo Da App\obj\Debug\net5.0\Owo Da App.dll
+C:\Users\Support\Documents\C#\Owo Da App\Owo Da App\obj\Debug\net5.0\refint\Owo Da App.dll
+C:\Users\Support\Documents\C#\Owo Da App\Owo Da App\obj\Debug\net5.0\Owo Da App.pdb
+C:\Users\Support\Documents\C#\Owo Da App\Owo Da App\obj\Debug\net5.0\Owo Da App.genruntimeconfig.cache
+C:\Users\Support\Documents\C#\Owo Da App\Owo Da App\obj\Debug\net5.0\ref\Owo Da App.dll
