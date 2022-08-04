@@ -18,27 +18,29 @@ namespace Owo_Da_App
             double totalCollected = 0;
             double fee;
 
-            for (int count = 1; count < 6; count++)
+            for (int count = 1; count < 3; count++)
             {
                 Console.WriteLine("Enter type of Vehicle\nTricycle\nMotorcycle\nMinibus\nBus");
                 string vehicleType = Console.ReadLine();
+                vehicleType = vehicleType.ToLower();
+
 
 
                 switch (vehicleType)
                 {
-                    case "Tricycle":
+                    case "tricycle":
                         fee = 100;
                         break;
 
-                    case "Motorcycle":
+                    case "motorcycle":
                         fee = 50;
                         break;
 
-                    case "Minibus":
+                    case "minibus":
                         fee = 200;
                         break;
 
-                    case "Bus":
+                    case "bus":
                         fee = 300;
                         break;
 
@@ -50,9 +52,10 @@ namespace Owo_Da_App
 
 
                 Console.WriteLine("You a member? Input\ntrue or\nfalse");
-                bool member = bool.Parse(Console.ReadLine());
+                string member = (Console.ReadLine());
+                member = member.ToLower();
 
-                if (member == true)
+                if (member == "true")
                 {
                     fee = fee * 0.7;
                 }
